@@ -17,7 +17,7 @@ Wyzecam V2
 
 The CFW consists of two parts:
 
-1. The Custom Firmware, which doesn't contain any custom software, it just allows you to boot from a Micro SD card. This will only need to be done once. It alters the stock firmware to give you the ability to boot from a Micro SD card and needs to be flashed over the stock firmware.
+1. The Custom Firmware, which doesn't contain any custom software, allows you to boot from a Micro SD card. This will only need to be done once. It simply alters the stock firmware to give you the ability to boot from a Micro SD card and needs to be flashed over the stock firmware. You can still boot the stock firmware if you remove the Micro SD card.
 2. The CFW Files, which contains the custom software. You will have to install them onto your Micro SD card after you complete step 1. You can easily modify the software by editing the files on the Micro SD card.
 
 
