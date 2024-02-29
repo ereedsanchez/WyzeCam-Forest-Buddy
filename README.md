@@ -8,9 +8,9 @@ Use of this tool for malicious purposes is not recommended. Author(s) is/are not
 
 ## Whats Needed:
 
-Wyzecam V2
+-Wyzecam V2
 
-2 x MicroSD Cards
+-2 x MicroSD Cards
 
 ## Attention: Do not install the latest Firmware on your Device. This hack will not be possible.
 
