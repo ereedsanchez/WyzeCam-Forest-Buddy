@@ -29,7 +29,7 @@ The CFW consists of two parts:
     --- | ---
     [Wyzecam V2](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks/raw/master/hacks/cfw/wyzecam_v2/cfw-1.2.bin) | 3b2deb32d0cd3ef75afef8788854883d868c09cf78c690f4b78fc26862793af3
 
-2. Format your microSD to FAT32. NTFS, EXFAT etc. won't work. Try to use smaller SD cards like 512 MB or create just a single primary 512 MB partition on it for maximum success rate.
+2. Format one microSD to FAT32. NTFS, EXFAT etc. won't work. Try to use smaller SD cards like 512 MB or create just a single primary 512 MB partition on it for maximum success rate.
 3. Copy the CFW-Binary from step 1 to the formatted microSD card and rename it to "demo.bin". It is important that there must not be other files on the microSD! 
 4. Remove the power cable from the camera and plug the microSD card into the camera
 5. Hold down the setup button on the camera while
@@ -44,7 +44,7 @@ The CFW consists of two parts:
 1. Download by simply clicking [here](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks/archive/refs/heads/master.zip).
 2. Right-click > Extract
 3. Navigate to extracted folder
-4. Copy everything from "firmware_mod" folder into the **root** of the microSD
+4. Copy everything from "firmware_mod" folder into the **root** of the second microSD
 
 It should look like this:
 
