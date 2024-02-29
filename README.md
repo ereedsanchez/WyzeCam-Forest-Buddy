@@ -42,8 +42,9 @@ The CFW consists of two parts:
 ## Installation of the new Firmware
 
 1. Download the repository as zip file from linked repository or simply click [here](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks/archive/refs/heads/master.zip).
-2. Right-click > extract
-3. Copy everything from "firmware_mod" folder into the **root** of the microSD
+2. Right-click > Extract
+3. Navigate to extracted folder
+4. Copy everything from "firmware_mod" folder into the **root** of the microSD
 
 It should look like this:
 
