@@ -1,4 +1,4 @@
-# Net-Mesh-Forest
+# Wyze Cam Forest Buddy integration
 
 Our mission is to implement solutions dedicated to the conservation of wildlife and to ensure the survival of these species. It is also important to ensure our implementation is effective and cost efficient. 
 
